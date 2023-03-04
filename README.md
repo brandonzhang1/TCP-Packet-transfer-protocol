@@ -1,6 +1,6 @@
 # TCP-Packet-transfer-protocol-simulation
 
-Simulates the coordination between two endpoints in handling corrupted and lost packets over a TCP socket connection with rates set by argument input. Simulates the following state transition protocol.
+Simulates the coordination between two endpoints in handling corrupted and lost packets over a TCP socket connection with rates set by argument input. Simulates the following state transition protocols:
 
 ![receiver](http://github.com/brandonzhang1/TCP-Packet-transfer-protocol/blob/main/receiver.png)
 
