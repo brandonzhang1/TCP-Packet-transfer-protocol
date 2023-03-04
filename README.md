@@ -8,5 +8,7 @@ Simulates the coordination between two endpoints in handling corrupted and lost 
 
 
 To run, first run the receiver program in the background before running the sender program. Arguments shown here are to invoke default values.
+
 >python receiver.py 0 1 1&
+
 >python sender.py 0 0 0 0 1 1 0
